@@ -1,0 +1,16 @@
+{
+  "name": "inode-cli",
+  "version": "0.0.0",
+  "description": "REPL inspired in IPython",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "marcosrava@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "pretty-repl": "^3.1.1"
+  }
+}
